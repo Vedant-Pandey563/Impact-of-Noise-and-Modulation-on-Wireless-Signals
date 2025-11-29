@@ -46,6 +46,7 @@ The script produces multiple live and static visualization windows, including:
   Analog carrier waveform (clean vs noisy)
   
   FFT spectrum plot
+  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Theory Summary
